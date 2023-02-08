@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nrb0y4Y4LqvTK3zWkwf8IQ" name="new_role,_D6wscKfjEe2L4IyQ94CHTA" guid="-nrb0y4Y4LqvTK3zWkwf8IQ" changeDate="2023-02-08T16:03:47.273-0300">
+  <mainDescription>Ele&amp;nbsp;checa as solicitações existentes de clientes para impressão 3D, conversa com o interessado e&amp;nbsp;busca obter mais&#xD;
+detalhes sobre o que o cliente deseja&amp;nbsp;em sua impressão como data de entrega da peça, se possui o material&#xD;
+necessário(filamento) para, então, repassá-las para o modelador.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

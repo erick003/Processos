@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2yaSsCfiQAmW6Iew-wnIdg" name="new_role,_iyIbgKfeEe2L4IyQ94CHTA" guid="-2yaSsCfiQAmW6Iew-wnIdg">
+  <mainDescription>Após obter a ideia desejada pelo cliente, o modelador irá executá-la através&amp;nbsp;de um programa de software de modelagem&#xD;
+3D. Nele tem-se uma visão realista de como o objeto ficará depois de pronto, antes de começar a impressão, o cliente&#xD;
+visualiza essa versão modelada a fim de aprovar ou, então, sugerir mudanças.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>
