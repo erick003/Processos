@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Pxc_4KfeEe2L4IyQ94CHTA" guid="_Pxc_4KfeEe2L4IyQ94CHTA">
+    <resourceDescriptors xmi:id="_DDP9AqfgEe2L4IyQ94CHTA" id="-2yaSsCfiQAmW6Iew-wnIdg" uri="roles/modelador.xmi"/>
+    <resourceDescriptors xmi:id="_1GfDAqfmEe2L4IyQ94CHTA" id="-ZbsJ_mtnWkOut8Yf_i4iCQ" uri="roles/cliente.xmi"/>
+    <resourceDescriptors xmi:id="_1GfDA6fmEe2L4IyQ94CHTA" id="-nrb0y4Y4LqvTK3zWkwf8IQ" uri="roles/intermediator.xmi"/>
+    <resourceDescriptors xmi:id="_1GfDBKfmEe2L4IyQ94CHTA" id="-9CWCcNc4C4ZIWi1_u0aNaA" uri="roles/checker.xmi"/>
+    <resourceDescriptors xmi:id="_eHs5cafuEe2L4IyQ94CHTA" id="-3Gp4nsZpeHjz2yHBg5aMhQ" uri="tasks/descrever_objeto_desejado_para_impresso.xmi"/>
+    <resourceDescriptors xmi:id="_eHs5c6fuEe2L4IyQ94CHTA" id="-OfSJMg9UzGjui6_N2vBkTQ" uri="tasks/modelar_objeto.xmi"/>
+    <resourceDescriptors xmi:id="_eH2DYKfuEe2L4IyQ94CHTA" id="-jSWX5zZtH4ivwpARVBgKyQ" uri="tasks/reunir_para_revisar_produto_final.xmi"/>
+    <resourceDescriptors xmi:id="_eH2DYafuEe2L4IyQ94CHTA" id="-7oGVzqv68CIB4fF2-BN0EA" uri="tasks/checar_material_disponivel.xmi"/>
+    <resourceDescriptors xmi:id="_eH2DYqfuEe2L4IyQ94CHTA" id="-C__EliZJI3iYPv0J06ALbg" uri="tasks/imprimir_objeto.xmi"/>
+    <resourceDescriptors xmi:id="_eH2DY6fuEe2L4IyQ94CHTA" id="-wMrHZviw0fA_VmRu9XPvzA" uri="tasks/monitorar_impressao.xmi"/>
+    <resourceDescriptors xmi:id="_E1KW0afxEe2L4IyQ94CHTA" id="-giukFNsfEsP6UGSZATJ-JQ" uri="tasks/checar_solicitacoes_existentes.xmi"/>
+    <resourceDescriptors xmi:id="_E1MzEKfxEe2L4IyQ94CHTA" id="-p6579IGGLAJ1OH4z70lUmA" uri="tasks/reunir_para_decidir_requisitos_do_produto.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_PxT18KfeEe2L4IyQ94CHTA" name="Processo 3D Printing" guid="_PxT18KfeEe2L4IyQ94CHTA" briefDescription="Utilizado para o processo de modelagem e impressão 3D">
+    <methodElementProperty xmi:id="_Pxc_4qfeEe2L4IyQ94CHTA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT18afeEe2L4IyQ94CHTA" name="Content" guid="_PxT18afeEe2L4IyQ94CHTA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT18qfeEe2L4IyQ94CHTA" name="Categories" guid="_PxT18qfeEe2L4IyQ94CHTA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT186feEe2L4IyQ94CHTA" name="Domains" guid="_PxT186feEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT19KfeEe2L4IyQ94CHTA" name="Disciplines" guid="_PxT19KfeEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT19afeEe2L4IyQ94CHTA" name="RoleSets" guid="_PxT19afeEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT19qfeEe2L4IyQ94CHTA" name="WP Types" guid="_PxT19qfeEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT196feEe2L4IyQ94CHTA" name="Tools" guid="_PxT196feEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT1-KfeEe2L4IyQ94CHTA" name="StandardCategories" guid="_PxT1-KfeEe2L4IyQ94CHTA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT1-afeEe2L4IyQ94CHTA" name="CustomCategories" guid="_PxT1-afeEe2L4IyQ94CHTA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT1-qfeEe2L4IyQ94CHTA" name="Hidden" guid="_PxT1-qfeEe2L4IyQ94CHTA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_PxT1-6feEe2L4IyQ94CHTA" name="Custom Categories" guid="_PxT1-6feEe2L4IyQ94CHTA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PxT1_KfeEe2L4IyQ94CHTA" name="CoreContent" guid="_PxT1_KfeEe2L4IyQ94CHTA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_WIZ64KfeEe2L4IyQ94CHTA" name="Processo 3D Printing" guid="_WIZ64KfeEe2L4IyQ94CHTA">
+          <methodElementProperty xmi:id="_WIZ64afeEe2L4IyQ94CHTA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_pktzgKfnEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iyIbgKfeEe2L4IyQ94CHTA" name="modelador" guid="_iyIbgKfeEe2L4IyQ94CHTA" presentationName="Modelador" briefDescription="Realiza a modelagem do objeto desejado pelo cliente através dos softwares Cura ou Flashprint, por exemplo.">
+            <methodElementProperty xmi:id="_DDP9AKfgEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-2yaSsCfiQAmW6Iew-wnIdg" href="uma://-2yaSsCfiQAmW6Iew-wnIdg#-2yaSsCfiQAmW6Iew-wnIdg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_ETWS8KfgEe2L4IyQ94CHTA" name="cliente" guid="_ETWS8KfgEe2L4IyQ94CHTA" presentationName="Cliente" briefDescription="Será o responsável por descrever qual sua ideia de produto para ser transformado em objeto 3D.">
+            <methodElementProperty xmi:id="_pk3kgKfnEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZbsJ_mtnWkOut8Yf_i4iCQ" href="uma://-ZbsJ_mtnWkOut8Yf_i4iCQ#-ZbsJ_mtnWkOut8Yf_i4iCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_D6wscKfjEe2L4IyQ94CHTA" name="intermediator" guid="_D6wscKfjEe2L4IyQ94CHTA" presentationName="Intermediator" briefDescription="Responsável por responder solicitações realizadas por clientes e intermediar esse contato com o modelador.">
+            <methodElementProperty xmi:id="_plAucKfnEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-nrb0y4Y4LqvTK3zWkwf8IQ" href="uma://-nrb0y4Y4LqvTK3zWkwf8IQ#-nrb0y4Y4LqvTK3zWkwf8IQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_OqrrcKfmEe2L4IyQ94CHTA" name="checker" guid="_OqrrcKfmEe2L4IyQ94CHTA" presentationName="Checker" briefDescription="Responsável por colocar o arquivo gerado pelo modelador do objeto 3D e acompanhar o processo de impressão.">
+            <methodElementProperty xmi:id="_1GfDAKfmEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9CWCcNc4C4ZIWi1_u0aNaA" href="uma://-9CWCcNc4C4ZIWi1_u0aNaA#-9CWCcNc4C4ZIWi1_u0aNaA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dfu3UKfqEe2L4IyQ94CHTA" name="descrever_objeto_desejado_para_impresso" guid="_dfu3UKfqEe2L4IyQ94CHTA" presentationName="Descrever objeto desejado para impressão" briefDescription="Cliente especifica o que de fato deseja imprimir">
+            <methodElementProperty xmi:id="_jw3aAKfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-3Gp4nsZpeHjz2yHBg5aMhQ" href="uma://-3Gp4nsZpeHjz2yHBg5aMhQ#-3Gp4nsZpeHjz2yHBg5aMhQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_svZqAKfrEe2L4IyQ94CHTA" name="modelar_objeto" guid="_svZqAKfrEe2L4IyQ94CHTA" presentationName="Modelagem do objeto" briefDescription="Modelar peça 3D em um programa de software.">
+            <methodElementProperty xmi:id="_jxBLAKfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-OfSJMg9UzGjui6_N2vBkTQ" href="uma://-OfSJMg9UzGjui6_N2vBkTQ#-OfSJMg9UzGjui6_N2vBkTQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Kx1i4KfsEe2L4IyQ94CHTA" name="reunir_para_revisar_produto_final" guid="_Kx1i4KfsEe2L4IyQ94CHTA" presentationName="Reuniao de revisao" briefDescription="Realizada para definir uma possível mudança na modelagem ou sua aprovação direta.">
+            <methodElementProperty xmi:id="_jxUtAKfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-jSWX5zZtH4ivwpARVBgKyQ" href="uma://-jSWX5zZtH4ivwpARVBgKyQ#-jSWX5zZtH4ivwpARVBgKyQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_si8s8KfsEe2L4IyQ94CHTA" name="checar_material_disponivel" guid="_si8s8KfsEe2L4IyQ94CHTA" presentationName="Checagem de material" briefDescription="Analisa se há material necessário para o produto a ser impresso.">
+            <methodElementProperty xmi:id="_jxd28KfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-7oGVzqv68CIB4fF2-BN0EA" href="uma://-7oGVzqv68CIB4fF2-BN0EA#-7oGVzqv68CIB4fF2-BN0EA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FWgGIKftEe2L4IyQ94CHTA" name="imprimir_objeto" guid="_FWgGIKftEe2L4IyQ94CHTA" presentationName="Impressao do objeto" briefDescription="Imprimir arquivo gerado">
+            <methodElementProperty xmi:id="_jxnn8KfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-C__EliZJI3iYPv0J06ALbg" href="uma://-C__EliZJI3iYPv0J06ALbg#-C__EliZJI3iYPv0J06ALbg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8HgKgKftEe2L4IyQ94CHTA" name="monitorar_impressao" guid="_8HgKgKftEe2L4IyQ94CHTA" presentationName="Monitoramento da impressao" briefDescription="Acompanhar a impressão para previnir possíveis falhas.">
+            <methodElementProperty xmi:id="_jx6i4KfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wMrHZviw0fA_VmRu9XPvzA" href="uma://-wMrHZviw0fA_VmRu9XPvzA#-wMrHZviw0fA_VmRu9XPvzA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_it2IsKfvEe2L4IyQ94CHTA" name="checar_solicitacoes_existentes" guid="_it2IsKfvEe2L4IyQ94CHTA" presentationName="Checar solicitacoes existentes" briefDescription="Realizar checagem de solicitações de impressão 3D.">
+            <methodElementProperty xmi:id="_jyET4KfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-giukFNsfEsP6UGSZATJ-JQ" href="uma://-giukFNsfEsP6UGSZATJ-JQ#-giukFNsfEsP6UGSZATJ-JQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_08xXQKfvEe2L4IyQ94CHTA" name="reunir_para_decidir_requisitos_do_produto" guid="_08xXQKfvEe2L4IyQ94CHTA" presentationName="Reunir para decidir requisitos do produto" briefDescription="É realizado um bate-papo para definição de detalhes do produto">
+            <methodElementProperty xmi:id="_jyOE4KfxEe2L4IyQ94CHTA" name="me_edited" value="true"/>
+            <presentation xmi:id="-p6579IGGLAJ1OH4z70lUmA" href="uma://-p6579IGGLAJ1OH4z70lUmA#-p6579IGGLAJ1OH4z70lUmA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_JytO4KfxEe2L4IyQ94CHTA" name="new_artifact" guid="_JytO4KfxEe2L4IyQ94CHTA" presentationName="New Artifact"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PxT1_afeEe2L4IyQ94CHTA" name="CapabilityPatterns" guid="_PxT1_afeEe2L4IyQ94CHTA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PxT1_qfeEe2L4IyQ94CHTA" name="DeliveryProcesses" guid="_PxT1_qfeEe2L4IyQ94CHTA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_PxT1_6feEe2L4IyQ94CHTA" name="ProcessContributions" guid="_PxT1_6feEe2L4IyQ94CHTA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

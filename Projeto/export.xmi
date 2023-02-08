@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI epf:version="1.5.1" xmi:version="2.0" xmlns:epf="http://www.eclipse.org/epf" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:xmi="http://www.omg.org/XMI">
+<org.eclipse.epf.uma.resourcemanager:ResourceManager guid="_5Fc-gKfcEe2L4IyQ94CHTA" xmi:id="_5Fc-gKfcEe2L4IyQ94CHTA">
+<subManagers href="uma://_PxT18KfeEe2L4IyQ94CHTA#_Pxc_4KfeEe2L4IyQ94CHTA" xmi:id="_Pxc_4KfeEe2L4IyQ94CHTA">
+</subManagers>
+<resourceDescriptors id="_5FYtEKfcEe2L4IyQ94CHTA" uri="" xmi:id="_5Fc-gafcEe2L4IyQ94CHTA">
+</resourceDescriptors>
+<resourceDescriptors id="_PxT18KfeEe2L4IyQ94CHTA" uri="Processo 3D Printing/plugin.xmi" xmi:id="_Pxc_4afeEe2L4IyQ94CHTA">
+</resourceDescriptors>
+</org.eclipse.epf.uma.resourcemanager:ResourceManager>
+<org.eclipse.epf.uma:MethodLibrary guid="_5FYtEKfcEe2L4IyQ94CHTA" name="Library1" xmi:id="_5FYtEKfcEe2L4IyQ94CHTA">
+<methodElementProperty name="library_synFree" value="true" xmi:id="_5GWWYKfcEe2L4IyQ94CHTA">
+</methodElementProperty>
+<methodPlugins href="uma://_PxT18KfeEe2L4IyQ94CHTA#_PxT18KfeEe2L4IyQ94CHTA" xmi:id="_PxT18KfeEe2L4IyQ94CHTA">
+</methodPlugins>
+<methodElementProperty value="0">
+</methodElementProperty>
+<methodElementProperty value="_PxT18KfeEe2L4IyQ94CHTA">
+</methodElementProperty>
+<methodElementProperty value="Processo 3D Printing">
+</methodElementProperty>
+</org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

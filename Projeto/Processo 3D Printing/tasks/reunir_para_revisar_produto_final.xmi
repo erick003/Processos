@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jSWX5zZtH4ivwpARVBgKyQ" name="reuniao_de_revisao,_Kx1i4KfsEe2L4IyQ94CHTA" guid="-jSWX5zZtH4ivwpARVBgKyQ" changeDate="2023-02-08T17:10:41.643-0300">
+  <mainDescription>&lt;p>&#xD;
+    O cliente se reúne com o modelador a fim de visualizar a modelagem feita e decidir se o produto está pronto para ser&#xD;
+    impresso ou necessita de alguma possível mudança para que atenda o desejado.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

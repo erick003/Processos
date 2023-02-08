@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3Gp4nsZpeHjz2yHBg5aMhQ" name=",_dfu3UKfqEe2L4IyQ94CHTA" guid="-3Gp4nsZpeHjz2yHBg5aMhQ" changeDate="2023-02-08T17:02:19.013-0300">
+  <mainDescription>Traz a ideia do produto em sua solicitação, via e-mail, que deseja materializar em impressão 3D, detalhando os requisitos&#xD;
+necessários e uma imagem exemplo do objeto.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

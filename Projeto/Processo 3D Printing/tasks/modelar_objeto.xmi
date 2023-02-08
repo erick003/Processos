@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-OfSJMg9UzGjui6_N2vBkTQ" name=",_svZqAKfrEe2L4IyQ94CHTA" guid="-OfSJMg9UzGjui6_N2vBkTQ" changeDate="2023-02-08T17:07:05.880-0300">
+  <mainDescription>O modelador realiza a modelagem do produto desejado pelo cliente através dos requisitos fornecidos pelo usuário final.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
