@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZbsJ_mtnWkOut8Yf_i4iCQ" name="new_role,_ETWS8KfgEe2L4IyQ94CHTA" guid="-ZbsJ_mtnWkOut8Yf_i4iCQ" changeDate="2023-02-08T15:59:18.988-0300">
-  <mainDescription>Ele detalha em sua solicitação o que deseja imprimir e dispõe de um exemplo em imagem desse objeto, suas dimensões e, após&#xD;
-ter seu produto modelado, aprovar ou sugerir mudanças para a, então,&amp;nbsp;impressão final.</mainDescription>
-</org.eclipse.epf.uma:RoleDescription>
