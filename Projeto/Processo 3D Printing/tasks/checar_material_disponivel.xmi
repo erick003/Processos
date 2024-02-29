@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7oGVzqv68CIB4fF2-BN0EA" name=",_si8s8KfsEe2L4IyQ94CHTA" guid="-7oGVzqv68CIB4fF2-BN0EA" changeDate="2023-02-08T17:13:25.512-0300">
-  <mainDescription>O checker monitora se o filamento disponível&amp;nbsp;para impressão é suficiente para determinada impressão 3D.</mainDescription>
+  <mainDescription>O checker monitora se o filamento disponível&amp;nbsp;para impressão é suficiente para determinada impressão 3D, para isso ele vai abrir a tabela compartilhada do excel e fazer a verificação de quanto de filamento já foi utilizado.</mainDescription>
 </org.eclipse.epf.uma:TaskDescription>
